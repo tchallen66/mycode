@@ -11,3 +11,5 @@
 # and another
 
 # this time local change
+
+# conflict change
