@@ -8,4 +8,4 @@
 # change introduced in master
 =======
 # change3
->>>>>>> first-branch
+# sample change3
